@@ -1,0 +1,1 @@
+<h1>Confirmation Email Code is <i>{{$data['code']}}</i></h1>
